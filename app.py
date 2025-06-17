@@ -1,6 +1,9 @@
 import streamlit as st
 from travel import generate_itinerary
 
+#demo-video link: 
+#https://drive.google.com/drive/folders/1EZRLD1kMNIMI8wDX4Uz8sECZG19k84_9?usp=drive_link
+
 #streamlit app
 st.title("Travel Itinerary Generator")
 
